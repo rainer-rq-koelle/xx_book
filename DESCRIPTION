@@ -1,0 +1,6 @@
+Package: xx_book
+Type: Book
+Title: Another trial to get the bookdown, netlify, github-action of E. Hvitfeld going.
+Version: 0.0.1
+Imports: bookdown
+Remotes: rstudio/bookdown
